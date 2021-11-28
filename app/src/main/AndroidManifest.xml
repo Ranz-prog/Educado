@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.educado_final">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Educado_final">
+        <activity android:name=".viewPdfUsingApp"></activity>
+        <activity android:name=".ForgotPassword" />
+        <activity android:name=".StudentProfile" />
+        <activity android:name=".ClassesStudent" />
+        <activity android:name=".InsideModule" />
+        <activity android:name=".AddStudent" />
+        <activity android:name=".AddModule" />
+        <activity android:name=".Uploading" />
+        <activity android:name=".CreateClass" />
+        <activity android:name=".Classes" />
+        <activity android:name=".Dashboard_Student" />
+        <activity android:name=".signup_student" />
+        <activity android:name=".signup_teacher" />
+        <activity android:name=".Signup_Choices" />
+        <activity android:name=".Dashboard_Teacher" />
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

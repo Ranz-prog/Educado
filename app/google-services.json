@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "604571406234",
+    "firebase_url": "https://educado-be26c.firebaseio.com",
+    "project_id": "educado-be26c",
+    "storage_bucket": "educado-be26c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604571406234:android:769b915b6183e941c8f423",
+        "android_client_info": {
+          "package_name": "com.example.educado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604571406234-h3vjvcgf348qpclap1sas7ld39gi66td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBER5dvY6zLENCNlb4HKbcJWhrpluwCS7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604571406234-h3vjvcgf348qpclap1sas7ld39gi66td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604571406234:android:33067161a9cafdaac8f423",
+        "android_client_info": {
+          "package_name": "com.example.educado_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604571406234-h3vjvcgf348qpclap1sas7ld39gi66td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBER5dvY6zLENCNlb4HKbcJWhrpluwCS7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604571406234-h3vjvcgf348qpclap1sas7ld39gi66td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604571406234:android:19b794446ac48bfac8f423",
+        "android_client_info": {
+          "package_name": "com.example.educadofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604571406234-h3vjvcgf348qpclap1sas7ld39gi66td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBER5dvY6zLENCNlb4HKbcJWhrpluwCS7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604571406234-h3vjvcgf348qpclap1sas7ld39gi66td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
